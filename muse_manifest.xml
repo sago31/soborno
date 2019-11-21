@@ -1,0 +1,90 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="soborno.com" resolutions="1x" timestamp="1574294582229">
+  <folder name="css">
+    <file name="site_global.css" crc="3770548214"/>
+    <file name="master_a-p_g_-maestra.css" crc="418634696" ref="index"/>
+    <file name="index.css" crc="4000924909" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="index"/>
+    <file name="nomq_index.css" crc="3975295214" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="4-18-07b-07.png" crc="350103433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cop_uniform-copia-copy.png" crc="293296168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cop_motorcycle-copia-copy.png" crc="3995095935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cop_car-copia-copy.png" crc="65099805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11 tabla.png" crc="262588606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money-in-license-copia-copy.png" crc="47089668" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money-in-hand-copia-copy.png" crc="61837016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money-in-ticket-copia-copy.png" crc="332920679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cop_uniform-copia-copy268x275.png" crc="4266583015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cop_motorcycle-copia-copy275x215.png" crc="429989976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cop_car-copia-copy274x195.png" crc="4125407978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11 tabla296x443.png" crc="510728857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money-in-license-copia-copy226x213.png" crc="350260703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money-in-hand-copia-copy271x187.png" crc="4224695530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money-in-ticket-copia-copy271x181.png" crc="128094076" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cop_uniform-copia-copy86x88.png" crc="4143804547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cop_motorcycle-copia-copy88x69.png" crc="3781198382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cop_car-copia-copy88x63.png" crc="3815161465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11 tabla95x142.png" crc="381845639" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money-in-license-copia-copy73x69.png" crc="62206091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money-in-hand-copia-copy87x60.png" crc="4075907515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money-in-ticket-copia-copy87x58.png" crc="248011719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="344892352" seo="true" mt="1574294565564" redirect="true"/>
+</manifest>
